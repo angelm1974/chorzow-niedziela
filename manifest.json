@@ -1,0 +1,24 @@
+{
+  "background_color": "#009dd6",
+  "description": "Aplikacja o fajnych motylach",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Aplikacja Motylowa",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Motyle",
+  "start_url": "/index.html",
+  "theme_color": "#1d61f3",
+  "categories": [
+    "photo",
+    "travel"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "pl",
+  "display_override": [
+    "standalone"
+  ],
+  "prefer_related_applications": false
+}
